@@ -1,5 +1,5 @@
-# This is a FullStack TodoList App made with React.js in the frontEnd, and PostgreSQL, Express.js and Node.js for the backend
-
+# This is a FullStack PERN (PostgreSQL, Express.js, React.js, Node.js) TodoList App 
+You will be able to create, read, update and delete tasks
 
 # Getting Started with Create React App
 
