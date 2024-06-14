@@ -1,3 +1,6 @@
+# This is a FullStack TodoList App made with React.js in the frontEnd, and PostgreSQL, Express.js and Node.js for the backend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
